@@ -1,3 +1,9 @@
 [build]
   command = "npm run build"
   publish = ".next"
+
+[[redirects]]
+  from = "robots.txt"
+  to = "/test/robots.txt"
+  status = 301
+  
