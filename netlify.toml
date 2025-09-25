@@ -4,9 +4,10 @@
 
 [[redirects]]
   from = "/robots.txt"
-  to = "/test0/robots.txt"
+  to = "/dummy/robots.txt"
   status = 301
   force = true
+  
 [[redirects]]
   from = "/test0/robots.txt"
   to = "/test1/robots.txt"
