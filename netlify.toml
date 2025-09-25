@@ -6,7 +6,7 @@
   from = "/robots.txt"
   to = "/test0/robots.txt"
   status = 301
-#  force = true
+  force = true
 [[redirects]]
   from = "/test0/robots.txt"
   to = "/test1/robots.txt"
